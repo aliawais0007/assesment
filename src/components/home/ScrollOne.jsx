@@ -56,12 +56,24 @@ const ScrollElement2 = () => {
   return (
     <div className={"row justify-content-center scroll-section"}>
       <div className={"col-12 col-md-6 d-flex align-items-center"}>
-        <div>
+        <div
+          data-aos="fade-right"
+          data-aos-offset="300"
+          data-aos-delay="300"
+          data-aos-duration="700"
+          data-aos-easing="ease-in-out"
+        >
           <img src={scroll2} className={"w-100"} alt="my dummy text" />
         </div>
       </div>
       <div className={"col-12 col-md-6"}>
-        <div>
+        <div
+          data-aos="fade-left"
+          data-aos-offset="300"
+          data-aos-delay="300"
+          data-aos-duration="700"
+          data-aos-easing="ease-in-out"
+        >
           <p className="title">Marketing & SEO</p>
           <p className="description border-bottom">
             Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -88,12 +100,24 @@ const ScrollElement3 = () => {
   return (
     <div className={"row justify-content-center scroll-section"}>
       <div className={"col-12 col-md-6 d-flex align-items-center"}>
-        <div>
+        <div
+          data-aos="fade-right"
+          data-aos-offset="200"
+          data-aos-delay="400"
+          data-aos-duration="700"
+          data-aos-easing="ease-in-out"
+        >
           <img src={scroll3} className={"w-100"} alt="my dummy text" />
         </div>
       </div>
       <div className={"col-12 col-md-6"}>
-        <div>
+        <div
+          data-aos="fade-left"
+          data-aos-offset="200"
+          data-aos-delay="400"
+          data-aos-duration="400"
+          data-aos-easing="ease-in-out"
+        >
           <p className="title">Development Features</p>
           <p className="description border-bottom">
             Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -122,12 +146,24 @@ const ScrollElement4 = () => {
   return (
     <div className={"row justify-content-center scroll-section"}>
       <div className={"col-12 col-md-6 d-flex align-items-center"}>
-        <div>
+        <div
+          data-aos="fade-right"
+          data-aos-offset="200"
+          data-aos-delay="500"
+          data-aos-duration="700"
+          data-aos-easing="ease-in-out"
+        >
           <img src={scroll4} className={"w-100"} alt="my dummy text" />
         </div>
       </div>
       <div className={"col-12 col-md-6"}>
-        <div>
+        <div
+          data-aos="fade-left"
+          data-aos-offset="200"
+          data-aos-delay="500"
+          data-aos-duration="700"
+          data-aos-easing="ease-in-out"
+        >
           <p className="title">Development Features</p>
           <p className="description border-bottom">
             Duis aute irure dolor in reprehenderit in voluptate velit esse

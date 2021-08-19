@@ -1,11 +1,21 @@
 import { useState, useLayoutEffect, useEffect } from "react";
+import { useHistory } from "react-router-dom";
 import MenuIcon from "@material-ui/icons/Menu";
 import { navOptions } from "../../contants";
 import { Header } from "./DrawerMenu";
 
 const NavOptions = () => {
+  let history = useHistory();
+  debugger;
   return navOptions.map((option, index) => (
-    <button className={"button custom-navlink"} key={index} href={`#${option}`}>
+    <button
+      onClick={() => {
+        history.push(`#${option.replaceAll(" ", "").toLowerCase()}`);
+      }}
+      className={"button custom-navlink"}
+      key={index}
+      href={`#${option}`}
+    >
       {option}
     </button>
   ));

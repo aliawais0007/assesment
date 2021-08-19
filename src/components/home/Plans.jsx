@@ -47,8 +47,8 @@ const CoreFeatures = () => {
         </div>
         <div className={"w-5"}>
           <div className={"tooltip-wrapper"}>
-          <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
-          <span className="my-tooltip">This is dummy Tooltip</span>
+            <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
+            <span className="my-tooltip">This is dummy Tooltip</span>
           </div>
         </div>
         <div className={"w-20"}>
@@ -74,8 +74,8 @@ const CoreFeatures = () => {
         </div>
         <div className={"w-5"}>
           <div className={"tooltip-wrapper"}>
-          <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
-          <span className="my-tooltip">This is dummy Tooltip</span>
+            <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
+            <span className="my-tooltip">This is dummy Tooltip</span>
           </div>
         </div>
         <div className={"w-20"}>
@@ -101,8 +101,8 @@ const CoreFeatures = () => {
         </div>
         <div className={"w-5"}>
           <div className={"tooltip-wrapper"}>
-          <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
-          <span className="my-tooltip">This is dummy Tooltip</span>
+            <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
+            <span className="my-tooltip">This is dummy Tooltip</span>
           </div>
         </div>
         <div className={"w-20"}>
@@ -126,8 +126,8 @@ const CoreFeatures = () => {
         </div>
         <div className={"w-5"}>
           <div className={"tooltip-wrapper"}>
-          <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
-          <span className="my-tooltip">This is dummy Tooltip</span>
+            <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
+            <span className="my-tooltip">This is dummy Tooltip</span>
           </div>
         </div>
         <div className={"w-20"}>
@@ -149,8 +149,8 @@ const CoreFeatures = () => {
         </div>
         <div className={"w-5"}>
           <div className={"tooltip-wrapper"}>
-          <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
-          <span className="my-tooltip">This is dummy Tooltip</span>
+            <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
+            <span className="my-tooltip">This is dummy Tooltip</span>
           </div>
         </div>
         <div className={"w-20"}>
@@ -181,8 +181,8 @@ const TechnicalSupport = () => {
         </div>
         <div className={"w-5"}>
           <div className={"tooltip-wrapper"}>
-          <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
-          <span className="my-tooltip">This is dummy Tooltip</span>
+            <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
+            <span className="my-tooltip">This is dummy Tooltip</span>
           </div>
         </div>
         <div className={"w-20"}>
@@ -208,8 +208,8 @@ const TechnicalSupport = () => {
         </div>
         <div className={"w-5"}>
           <div className={"tooltip-wrapper"}>
-          <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
-          <span className="my-tooltip">This is dummy Tooltip</span>
+            <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
+            <span className="my-tooltip">This is dummy Tooltip</span>
           </div>
         </div>
         <div className={"w-20"}>
@@ -235,8 +235,8 @@ const TechnicalSupport = () => {
         </div>
         <div className={"w-5"}>
           <div className={"tooltip-wrapper"}>
-          <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
-          <span className="my-tooltip">This is dummy Tooltip</span>
+            <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
+            <span className="my-tooltip">This is dummy Tooltip</span>
           </div>
         </div>
         <div className={"w-20"}>
@@ -260,8 +260,8 @@ const TechnicalSupport = () => {
         </div>
         <div className={"w-5"}>
           <div className={"tooltip-wrapper"}>
-          <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
-          <span className="my-tooltip">This is dummy Tooltip</span>
+            <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
+            <span className="my-tooltip">This is dummy Tooltip</span>
           </div>
         </div>
         <div className={"w-20"}>
@@ -283,8 +283,8 @@ const TechnicalSupport = () => {
         </div>
         <div className={"w-5"}>
           <div className={"tooltip-wrapper"}>
-          <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
-          <span className="my-tooltip">This is dummy Tooltip</span>
+            <img src={infoIcon} className={"tooltip-icon"} alt="icon 1" />
+            <span className="my-tooltip">This is dummy Tooltip</span>
           </div>
         </div>
         <div className={"w-20"}>
@@ -305,7 +305,7 @@ const TechnicalSupport = () => {
 
 export const Plans = () => {
   return (
-    <section id="plans">
+    <section id="pricing">
       <div className={"container-fluid"}>
         <div className={"row justify-content-center"}>
           <div

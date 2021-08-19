@@ -1,4 +1,10 @@
 import { useEffect } from "react";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 import AOS from 'aos';
 import "./App.scss";
 import { Home } from "./components/pages/Home";
@@ -14,9 +20,13 @@ function App() {
     AOS.refresh();
   }, []);
   return (
-    <div>
-      <Home />
-    </div>
+    <Router>
+      <Switch>
+        <Route path="" exact={true}>
+          <Home />
+        </Route>
+      </Switch>
+    </Router>
   );
 }
 

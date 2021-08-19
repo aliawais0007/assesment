@@ -279,8 +279,6 @@ section#selldigital {
 
 section#scroll1 {
   padding: rem(140) rem(100);
-  height: rem(1020);
-  overflow-y: scroll;
   @media (max-width: 1200px) {
     padding: rem(140) rem(50);
   }
@@ -362,7 +360,9 @@ section#merchants {
   background-color: #4a42ad;
   background-image: url(./assets/images/bg_baloons.svg);
   background-size: cover;
-  height: rem(700);
+  min-height: rem(700);
+  display: flex;
+  align-items: center;
   background-repeat: no-repeat;
   background-position: center;
   color: $color-white;
@@ -477,7 +477,7 @@ section#support {
   }
 }
 
-section#plans {
+section#pricing {
   background: #f5f5f5;
   .heading-section {
     padding: rem(170) rem(100) rem(85);

@@ -13,10 +13,8 @@ export const Footer = () => {
               <li className={"first"}>Product</li>
               <li>Home</li>
               <li>About</li>
-              <li>Tech Stack</li>
-              <li>Super Merchants</li>
-              <li>Pricing</li>
-              <li>Partners</li>
+              <li>Dolre</li>
+              <li>Tertiary</li>
             </ul>
           </div>
           <div className="col-xl-2 col-md-3 d-none d-md-block">
