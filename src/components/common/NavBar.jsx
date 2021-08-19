@@ -6,7 +6,6 @@ import { Header } from "./DrawerMenu";
 
 const NavOptions = () => {
   let history = useHistory();
-  debugger;
   return navOptions.map((option, index) => (
     <button
       onClick={() => {

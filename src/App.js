@@ -2,11 +2,10 @@ import { useEffect } from "react";
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import AOS from 'aos';
-import "./App.scss";
+import "./index.scss";
 import { Home } from "./components/pages/Home";
 import "aos/dist/aos.css";
 
