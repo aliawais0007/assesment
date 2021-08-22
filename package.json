@@ -1,6 +1,5 @@
 {
   "name": "demo-assesment",
-  "homepage": "http://aliawais0007.github.io/assesment/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,8 +21,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "bash ./scripts/deploy.sh",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
