@@ -16,6 +16,10 @@ $color-white: #fff;
   src: url(./assets/fonts/Yellix-Regular.ttf);
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .p-40 {
   padding: rem(40);
   @media (max-width: 767px) {
