@@ -20,7 +20,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "scss:prefix": "postcss ./src/App.scss -o ./src/index.scss",
+    "scss:prefix": "postcss ./src/App.scss -o ./src/custom.css",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "bash ./scripts/deploy.sh",
