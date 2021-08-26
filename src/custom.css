@@ -21,7 +21,7 @@ p {
 }
 @media (min-width: 48rem) {
   p {
-    font: normal normal normal 1.5625rem / 2.0625rem + " " + Yellix TRIAL;
+    font: normal normal normal 1.5625rem / 2.0625rem Yellix TRIAL;
   }
 }
 @media (max-width: 47.9375rem) {
@@ -39,7 +39,7 @@ h2.larger-heading {
 
 @media (min-width: 48rem) {
   h2.larger-heading {
-    font: normal normal normal 4.25rem / 4.5rem + " " + Yellix TRIAL;
+    font: normal normal normal 4.25rem / 4.5rem Yellix TRIAL;
   }
 }
 
@@ -80,7 +80,7 @@ h2.larger-heading.banner-heading {
   justify-content: center;
   -ms-flex-align: center;
   align-items: center;
-  font: normal normal normal 1.0625rem / 1.5625rem + " " + Yellix TRIAL;
+  font: normal normal normal 1.0625rem / 1.5625rem Yellix TRIAL;
   height: 2.625rem;
   padding: 0 1.5625rem;
   white-space: nowrap;

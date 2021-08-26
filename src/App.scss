@@ -16,7 +16,7 @@ body {
 p {
   margin-bottom: 0;
   @media (min-width: 768px) {
-    font: normal normal normal 25px / 33px + " " + Yellix TRIAL;
+    font: normal normal normal 25px / 33px Yellix TRIAL;
   }
 
   @media (max-width: 767px) {
@@ -30,7 +30,7 @@ h2.larger-heading {
   font-size: 32px;
   line-height: 42px;
   @media (min-width: 768px) {
-    font: normal normal normal 68px / 72px + " " + Yellix TRIAL;
+    font: normal normal normal 68px / 72px Yellix TRIAL;
   }
 
   &.banner-heading {
@@ -62,7 +62,7 @@ h2.larger-heading {
   display: flex;
   justify-content: center;
   align-items: center;
-  font: normal normal normal 17px / 25px + " " + Yellix TRIAL;
+  font: normal normal normal 17px / 25px Yellix TRIAL;
   height: 42px;
   padding: 0 25px;
   white-space: nowrap;
