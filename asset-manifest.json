@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/assesment/static/css/main.98ec025a.chunk.css",
+    "main.css": "/assesment/static/css/main.b300b6e2.chunk.css",
     "main.js": "/assesment/static/js/main.0850a608.chunk.js",
     "main.js.map": "/assesment/static/js/main.0850a608.chunk.js.map",
     "runtime-main.js": "/assesment/static/js/runtime-main.c439f3c5.js",
@@ -12,7 +12,7 @@
     "static/js/3.d075abb3.chunk.js.map": "/assesment/static/js/3.d075abb3.chunk.js.map",
     "index.html": "/assesment/index.html",
     "static/css/2.4438f625.chunk.css.map": "/assesment/static/css/2.4438f625.chunk.css.map",
-    "static/css/main.98ec025a.chunk.css.map": "/assesment/static/css/main.98ec025a.chunk.css.map",
+    "static/css/main.b300b6e2.chunk.css.map": "/assesment/static/css/main.b300b6e2.chunk.css.map",
     "static/js/2.19bad096.chunk.js.LICENSE.txt": "/assesment/static/js/2.19bad096.chunk.js.LICENSE.txt",
     "static/media/custom.css": "/assesment/static/media/marker.ee17748b.svg",
     "static/media/baloons.26092dea.svg": "/assesment/static/media/baloons.26092dea.svg",
@@ -48,7 +48,7 @@
     "static/js/runtime-main.c439f3c5.js",
     "static/css/2.4438f625.chunk.css",
     "static/js/2.19bad096.chunk.js",
-    "static/css/main.98ec025a.chunk.css",
+    "static/css/main.b300b6e2.chunk.css",
     "static/js/main.0850a608.chunk.js"
   ]
 }
